@@ -1,12 +1,23 @@
-# React + Vite
+# Kaya Immigration
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Kaya Immigration! We provide unbiased immigration advice to help our clients discover the best country for them. Our immigration counselors work with you to identify the most ideally-suited countries with the best prospects for successful migration. We stay up-to-date with the latest immigration laws and policies to offer you timely, accurate advice for the right immigration decision.
 
-Currently, two official plugins are available:
+## Deployment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To deploy this project run
 
-react-reveal
-react-icon
-react-responsive-carousel
+```bash
+  cd my-project
+  npm install
+  npm run dev
+```
+
+## Demo
+
+## Features
+
+- Responsive web-app
+- Book Appointments
+- Smooth Page Rendering using react routing
+- Minimal load time using Lazy loading
+- Contact-Us , Sign-in , Sign-up with integrated to backend
